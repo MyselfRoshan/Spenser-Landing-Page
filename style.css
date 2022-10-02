@@ -324,7 +324,7 @@ section:nth-of-type(3) .article{
 section:nth-of-type(3) .container {
     background-image: url('/Assets/Phone\ Mockup\ \(Desktop\).png');
     background-repeat: no-repeat;
-    background-position: -3rem 0rem;
+    background-position: 50% 0rem;
     background-attachment: local;
 }
 
